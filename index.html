@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="home">
+
+Welcome to the Block Attack - Rise of the Blocks Homepage, another open source SDL based Tetris Attack Clone under the GPL
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+	{{ post.content }}
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Version 1.4.2 is out!"
+date:   2014-09-11
+categories: update
+---
+
+A miner upgrade to version 1.4.2 has just been uploaded. Less than 5 years after 1.4.1 the new and improved version is already available. The Windows uninstaller now works on Vista/7/8. But that is also about that is changed. I have been working on a 1.5.0 version that has a much more keyboard friendly menu and True Type fonts but it has lacked the final polish and has done so for quite a long time. I have also looked into a BlockAttack 2 that fixes some of the original design flaws (the fixed windows size, network model etc.). 

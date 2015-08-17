@@ -1,0 +1,11 @@
+# Site settings
+title: Block Attack - Rise of the Blocks
+email: poul@poulsander.com
+description: > # this means to ignore newlines until "baseurl:"
+  Block Attack - Rise of the Blocks is a puzzle/blockfall game inspired by Tetris Attack for the SNES. 
+  The game is pretty action packed for a puzzle game :-)
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blockattack.sf.net" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
