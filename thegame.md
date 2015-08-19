@@ -9,7 +9,7 @@ The game is programmed by me (Poul Sander) and is released under the GPL license
 From version 1.1.0 the game play has been changed. This should also make it easier to implement an AI (almost ready)
 Current version is 1.4.2
 
-Features:
+#Features:
 
   * Based on the classic "Tetris Attack" for the SNES
   * 5 single player modes: Endless, Time Trial, Puzzle Mode, Stage Clear and Vs. Mode
@@ -28,7 +28,8 @@ Features:
   * Network play, you must know the IP address of the server (uses enet)
   * Deb-package for debian exists in '[unstable](http://packages.debian.org/unstable/games/blockattack)', packages for other systems can be found around the Internet
 
-Coming features:
+#Coming features:
+Ok... they might never arrive. But things I would like.
 
   * Better AI
   * Save/play replay in Network games
@@ -36,17 +37,17 @@ Coming features:
   * More puzzles (always needed)
   * Maybe more packages for Linux
 
-Notes:
+#Notes:
 
   * Network play might break compatibility for non-Windows and non-Linux systems (it will use enet, I don't know the exact compatibility with other operating systems). Systems that uses big endian processors (like PowerPC) will most likely be incompatible with systems that uses low endian processors (like Celeron, Pentium and Athlon).
   * The object "ReadKeyboard" is useless, but I didn't know it when I programmed the game.
   * The game was once called "Block Attack - Raise of the blocks". The title didn't make any sense...
 
-Known bugs in version 1.4.2:
+#Known bugs in version 1.4.2:
 
   * The way the board is saved and transfered over network means that some information is lost.
 
-System requirements:
+#System requirements:
 
   * Screen resolution: 1024x768 (cannot be changed, but it can run in a window)
   * Keyboard
