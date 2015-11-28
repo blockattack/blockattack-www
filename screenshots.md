@@ -2,6 +2,7 @@
 layout: page
 title: Screen shots
 permalink: /screenshots/
+redirect_from: "/screenshots.htm"
 ---
 Here are some screen shots to show the development of the game. All screen shots are taken by pressing F9 in the game, but are later compressed... that is why the quality is not the best
 

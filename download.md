@@ -2,6 +2,7 @@
 layout: page
 title: Download
 permalink: /download/
+redirect_from: "/downloads.htm"
 ---
 Welcome to the download page. It is here the real stuff are.
 
