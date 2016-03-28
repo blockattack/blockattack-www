@@ -21,6 +21,10 @@ body {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+    background-image: url('/images/background.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 
@@ -160,6 +164,11 @@ pre {
     margin-left: auto;
     padding-right: $spacing-unit;
     padding-left: $spacing-unit;
+border: 5px solid 	#cc0099;
+ border-radius: 25px;
+background-color: #eef;
+padding-top: 5px;
+padding-bottom: 5px;
     @extend %clearfix;
 
     @include media-query($on-laptop) {
@@ -201,6 +210,29 @@ pre {
             fill: $grey-color;
         }
     }
+}
+
+.download-link {
+    padding: 5px 5px;
+    background: #00CC33;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;    
+    border-radius: 4px;
+    border: solid 1px #20538D;
+    color: white;
+}
+
+.download-link:link {
+color: white;
+}
+.download-link:visited {
+color: white;
+}
+.download-link:hover {
+color: white;
+}
+.download-link:active {
+color: white;
 }
 
 

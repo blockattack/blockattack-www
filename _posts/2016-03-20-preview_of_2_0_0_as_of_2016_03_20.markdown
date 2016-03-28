@@ -33,6 +33,8 @@ Because the 2.0.0 version is already better in many ways:
 
 Screen shot of the new keyboard and game controller friendly menu:<br/>
 <a href="{{ site.url }}/images/blockattack2_menu_2016-03-20_14-30-11.png"><img src="{{ site.url }}/images/blockattack2_menu_2016-03-20_14-30-11_thump.png" alt="Screenshot" border="0"/></a>
-
-The source can be downloaded here: <a href="https://github.com/blockattack/blockattack-game/archive/v.2.0.0-SNAPSHOT-2016-03-20.tar.gz">Source code</a><br/>
-A Windows installer can be downloaded here: <a href="https://github.com/blockattack/blockattack-game/releases/download/v.2.0.0-SNAPSHOT-2016-03-20/blockattack-2.0.0-SNAPSHOT-2016-03-20.exe">Windows installer</a>
+<p/>
+The source can be downloaded here: [Source code](https://github.com/blockattack/blockattack-game/archive/v.2.0.0-SNAPSHOT-2016-03-20.tar.gz){:class="download-link"}<br/>
+<p/>
+A Windows installer can be downloaded here: 
+[Windows installer](https://github.com/blockattack/blockattack-game/releases/download/v.2.0.0-SNAPSHOT-2016-03-20/blockattack-2.0.0-SNAPSHOT-2016-03-20.exe){:class="download-link"}

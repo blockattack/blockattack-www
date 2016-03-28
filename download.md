@@ -8,17 +8,17 @@ Welcome to the download page. It is here the real stuff are.
 
 # Version 1.4.x (recommended):
 
-[Windows version 1.4.2](http://downloads.sourceforge.net/blockattack/BlockAttackSetup-1.4.2.exe?use_mirror=osdn) 
+[Windows version 1.4.2](http://downloads.sourceforge.net/blockattack/BlockAttackSetup-1.4.2.exe?use_mirror=osdn){:class="download-link"}
 
-[Linux/Unix/Other version 1.4.2](http://downloads.sourceforge.net/blockattack/blockattack-1.4.2.tar.bz2?use_mirror=osdn)
+[Linux/Unix/Other version 1.4.2](http://downloads.sourceforge.net/blockattack/blockattack-1.4.2.tar.bz2?use_mirror=osdn){:class="download-link"}
 
 # The Puzzle Level Editor:
 
-[Puzzle Level Editor v2 in Java (All OSs)](http://prdownloads.sourceforge.net/blockattack/BlockAttackLevelEditor2_Java.zip?download)
+[Puzzle Level Editor v2 in Java (All OSs)](http://prdownloads.sourceforge.net/blockattack/BlockAttackLevelEditor2_Java.zip?download){:class="download-link"}
 
 This includes documentation
 
-[Puzzle Level Editor v4 for GCJ (Linux/Unix systems)](http://prdownloads.sourceforge.net/blockattack/blockattackeditor-4.tar.gz?download)
+[Puzzle Level Editor v4 for GCJ (Linux/Unix systems)](http://prdownloads.sourceforge.net/blockattack/blockattackeditor-4.tar.gz?download){:class="download-link"}
 
 Has a test function but otherwise cannot do any more than v2. 
 
