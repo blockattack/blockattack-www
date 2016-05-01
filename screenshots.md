@@ -8,6 +8,8 @@ Here are some screen shots to show the development of the game. All screen shots
 
 More screen shots can be found on the Sourceforge page [here](http://sourceforge.net/project/screenshots.php?group_id=149110).
 
+![version 2.0.0](../images/blockattack-2.0.0-1.png "version 2.0.0")
+
 ![version 1.4.0](../images/blockattack-1.4.0-beta.png "version 1.4.0")
 
 ![version 1.2.0](../images/screenshot11.jpg "version 1.2.0")
