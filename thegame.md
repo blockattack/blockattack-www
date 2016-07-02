@@ -51,3 +51,7 @@ The game is using the [SDL libary](http://www.libsdl.org/), [SDL_Mixer](http://w
 Tested on: Windows 8 (64 bit), Windows 10 (64 bit), Ubuntu 14.04 (64 bit) and Ubuntu 16.04 (64 bit)
 
 Source is included
+
+# Comments 
+
+{% include disqus.html %}
