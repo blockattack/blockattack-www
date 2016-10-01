@@ -6,13 +6,13 @@ redirect_from: "/downloads.htm"
 ---
 Welcome to the download page. It is here the real stuff are.
 
-# Version 2.0.0 (recommended):
+# Version 2.0.1 (recommended):
 
-[Windows installer 2.0.0](https://github.com/blockattack/blockattack-game/releases/download/v2.0.0/blockattack-installer-2.0.0.exe){:class="download-link"}
+[Windows installer 2.0.1](https://github.com/blockattack/blockattack-game/releases/download/v2.0.1/blockattack-installer-2.0.1.exe){:class="download-link"}
 
-[Windows no-installer 2.0.0](https://github.com/blockattack/blockattack-game/releases/download/v2.0.0/blockattack-2.0.0-windows-no-installer.zip){:class="download-link"}
+[Windows no-installer 2.0.1](https://github.com/blockattack/blockattack-game/releases/download/v2.0.1/blockattack-2.0.1-windows-no-installer.zip){:class="download-link"}
 
-[Linux/Unix/Other source 2.0.0](https://github.com/blockattack/blockattack-game/archive/v2.0.0.tar.gz){:class="download-link"}
+[Linux/Unix/Other source 2.0.1](https://github.com/blockattack/blockattack-game/archive/v2.0.1.tar.gz){:class="download-link"}
 
 
 # The Puzzle Level Editor:
@@ -23,7 +23,7 @@ This includes documentation
 
 # Additional files
 
-Old versions can be found on the [Source forge download section](http://sourceforge.net/project/showfiles.php?group_id=149110)
+Old versions can be found on the [GitGub release section](https://github.com/blockattack/blockattack-game/releases) or [Source forge download section](http://sourceforge.net/project/showfiles.php?group_id=149110)
 
 # Download info
 
@@ -35,7 +35,7 @@ Number of downloads from SourceForge (up to 1.4.2): [![SourceForge](https://img.
 
 The source is now hosted in a git repository at GitHub [here](https://github.com/blockattack).
 
-The [master](https://github.com/blockattack/blockattack-game) branch contains the development version for 2.0.0 and is considerable different from 1.4.2.
+The [master](https://github.com/blockattack/blockattack-game) branch contains the development version for 2.X.Y and is considerable different from 1.4.2.
 
 [1.4.2](https://github.com/blockattack/blockattack-game/tree/v1.4.2) can be found in its own branch.
 

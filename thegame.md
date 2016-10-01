@@ -7,8 +7,7 @@ redirect_from: "/thegame.htm"
 Block Attack - Rise of the Blocks is a puzzle/blockfall game inspired by Nintendo's Tetris Attack (or "Panel de Pon") for the Super Nintendo. The game is pretty action packed for a puzzle game :-)
 The game is programmed by me (Poul Sander) and is released under the GPL license version 2.
 
-From version 1.1.0 the game play has been changed. This should also make it easier to implement an AI (almost ready)
-Current version is 2.0.0
+Current version is 2.0.1
 
 # Features:
 
@@ -46,7 +45,7 @@ Ok... they might never arrive. But things I would like.
   * Mouse
   * OS: Windows or Linux
 
-The game is using the [SDL libary](http://www.libsdl.org/), [SDL_Mixer](http://www.libsdl.org/projects/SDL_mixer), [SDL_image](http://www.libsdl.org/projects/SDL_image/), [SFont](http://www.linux-games.com/sfont/) (included) and [enet](http://enet.cubik.org/) (also included)
+The game is using the [SDL2 libary](http://www.libsdl.org/), [SDL_Mixer](http://www.libsdl.org/projects/SDL_mixer), [SDL_image](http://www.libsdl.org/projects/SDL_image/), [SDL_ttf](https://www.libsdl.org/projects/SDL_ttf/), [PhysicsFS](https://icculus.org/physfs/), JsonCpp, boost, [cpputf](http://utfcpp.sourceforge.net/) and [NFont](https://github.com/grimfang4/nfont/)
 
 Tested on: Windows 8 (64 bit), Windows 10 (64 bit), Ubuntu 14.04 (64 bit) and Ubuntu 16.04 (64 bit)
 
