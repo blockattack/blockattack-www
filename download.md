@@ -6,13 +6,13 @@ redirect_from: "/downloads.htm"
 ---
 Welcome to the download page. It is here the real stuff are.
 
-# Version 2.0.1 (recommended):
+# Version 2.1.1 (recommended):
 
-[Windows installer 2.0.1](https://github.com/blockattack/blockattack-game/releases/download/v2.0.1/blockattack-installer-2.0.1.exe){:class="download-link"}
+[Windows installer 2.1.1](https://github.com/blockattack/blockattack-game/releases/download/v2.1.1/blockattack-installer-2.1.1.exe){:class="download-link"}
 
-[Windows no-installer 2.0.1](https://github.com/blockattack/blockattack-game/releases/download/v2.0.1/blockattack-2.0.1-windows-no-installer.zip){:class="download-link"}
+[Windows no-installer 2.1.1](https://github.com/blockattack/blockattack-game/releases/download/v2.1.1/blockattack-2.1.1-windows-no-installer.zip){:class="download-link"}
 
-[Linux/Unix/Other source 2.0.1](https://github.com/blockattack/blockattack-game/archive/v2.0.1.tar.gz){:class="download-link"}
+[Linux/Unix/Other source 2.1.1](https://github.com/blockattack/blockattack-game/archive/v2.1.1.tar.gz){:class="download-link"}
 
 
 # The Puzzle Level Editor:
