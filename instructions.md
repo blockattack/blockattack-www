@@ -15,7 +15,7 @@ Both can be changed in the menu
 
 # Gameplay
 
-Basically you just move around and switch blocks horisintally to match them 3 or more. Take a look on YouTube to see it.
+Basically you just move around and switch blocks horizontally to match them 3 or more. Take a look on YouTube to see it.
 
 # Comments
 

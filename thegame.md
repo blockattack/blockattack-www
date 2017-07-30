@@ -7,7 +7,7 @@ redirect_from: "/thegame.htm"
 Block Attack - Rise of the Blocks is a puzzle/blockfall game inspired by Nintendo's Tetris Attack (or "Panel de Pon") for the Super Nintendo. The game is pretty action packed for a puzzle game :-)
 The game is programmed by me (Poul Sander) and is released under the GPL license version 2.
 
-Current version is 2.0.1
+Current version is 2.1.1
 
 # Features:
 
@@ -23,7 +23,6 @@ Current version is 2.0.1
   * Puzzle level editor (written in Java)
   * Select puzzle file from a list in the game
   * Runs under Linux and Windows + more
-  * Save/Play Replay function
   * There is a Debian package: '[unstable](http://packages.debian.org/unstable/games/blockattack)'
 
 # Coming features:
@@ -40,7 +39,7 @@ Ok... they might never arrive. But things I would like.
 
 # System requirements:
 
-  * Screen resolution: 1024x768 (cannot be changed, but it can run in a window)
+  * Screen resolution: 1024x768 (can be changed from 2.1.1+ but still recommended)
   * Keyboard
   * Mouse
   * OS: Windows or Linux
@@ -51,6 +50,6 @@ Tested on: Windows 8 (64 bit), Windows 10 (64 bit), Ubuntu 14.04 (64 bit) and Ub
 
 Source is included
 
-# Comments 
+# Comments
 
 {% include disqus.html %}
