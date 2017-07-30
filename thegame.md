@@ -7,7 +7,7 @@ redirect_from: "/thegame.htm"
 Block Attack - Rise of the Blocks is a puzzle/blockfall game inspired by Nintendo's Tetris Attack (or "Panel de Pon") for the Super Nintendo. The game is pretty action packed for a puzzle game :-)
 The game is programmed by me (Poul Sander) and is released under the GPL license version 2.
 
-Current version is 2.1.1
+Current version is 2.1.2
 
 # Features:
 
