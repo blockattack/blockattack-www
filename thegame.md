@@ -23,7 +23,7 @@ Current version is 2.1.2
   * Puzzle level editor (written in Java)
   * Select puzzle file from a list in the game
   * Runs under Linux and Windows + more
-  * There is a Debian package: '[unstable](http://packages.debian.org/unstable/games/blockattack)'
+  * There is a package in Debian and Ubuntu. Just do: `sudo apt-get install blockattack`
 
 # Coming features:
 Ok... they might never arrive. But things I would like.
@@ -46,7 +46,7 @@ Ok... they might never arrive. But things I would like.
 
 The game is using the [SDL2 libary](http://www.libsdl.org/), [SDL_Mixer](http://www.libsdl.org/projects/SDL_mixer), [SDL_image](http://www.libsdl.org/projects/SDL_image/), [SDL_ttf](https://www.libsdl.org/projects/SDL_ttf/), [PhysicsFS](https://icculus.org/physfs/), JsonCpp, boost, [cpputf](http://utfcpp.sourceforge.net/) and [NFont](https://github.com/grimfang4/nfont/)
 
-Tested on: Windows 8 (64 bit), Windows 10 (64 bit), Ubuntu 14.04 (64 bit) and Ubuntu 16.04 (64 bit)
+Version 2.1.2 has been tested on: Windows 8 (64 bit), Windows 10 (64 bit), Ubuntu 14.04 (64 bit), Ubuntu 16.04 (64 bit), Fedora 25 (64 bit), Fedora 23 (32 bit) and Debian 8.9 (32 bit)
 
 Source is included
 
