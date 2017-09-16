@@ -17,6 +17,7 @@ Welcome to the download page. It is here the real stuff are.
 [Source 2.1.2](https://github.com/blockattack/blockattack-game/archive/v2.1.2.tar.gz){:class="download-link"}
 
 Debian and Ubuntu users might choose to install the **blockattack** package instead: `sudo apt-get install blockattack`
+Itch users can also find the game on [itch.io](https://sago008.itch.io/blockattack) and install it with the Itch.io App.
 
 # The Puzzle Level Editor:
 
