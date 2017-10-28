@@ -8,7 +8,7 @@ Welcome to the download page. It is here the real stuff are.
 
 # Version 2.1.2 (recommended):
 
-[Linux no-installer 2.1.2](https://github.com/blockattack/blockattack-game/releases/download/v2.1.2/blockattack-linux-2.1.2-2.tar.bz2){:class="download-link"}
+[Linux no-installer 2.1.2](https://github.com/blockattack/blockattack-game/releases/download/v2.1.2/blockattack-linux-2.1.2-3.tar.bz2){:class="download-link"}
 
 [Windows installer 2.1.2](https://github.com/blockattack/blockattack-game/releases/download/v2.1.2/blockattack-installer-2.1.2.exe){:class="download-link"}
 
