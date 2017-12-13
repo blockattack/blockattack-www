@@ -32,6 +32,6 @@ Because the 2.0.0 version is already better in many ways:
  * It supports international characters.
 
 Screen shot of the new keyboard and game controller friendly menu:<br/>
-<a href="{{ site.url }}/images/blockattack2_menu_2016-03-20_14-30-11.png"><img src="{{ site.url }}/images/blockattack2_menu_2016-03-20_14-30-11_thump.png" alt="Screenshot" border="0"/></a>
+<a href="{{ site.url }}/images/blockattack2_menu_2016-03-20_14-30-11.png"  data-lightbox="image-2016-03-20" data-title="Screenshot"><img src="{{ site.url }}/images/blockattack2_menu_2016-03-20_14-30-11_thump.png" alt="Screenshot" border="0"/></a>
 <p></p>
 The preview can be downloaded here: [Release page](https://github.com/blockattack/blockattack-game/releases/tag/v.2.0.0-SNAPSHOT-2016-03-20)
