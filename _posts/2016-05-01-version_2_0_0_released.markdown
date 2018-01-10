@@ -4,7 +4,7 @@ title: "Version 2.0.0 released"
 date: 2016-05-01
 catagories: news
 ---
-Version 2.0.0 is released. Read the [Release Notes](https://raw.githubusercontent.com/blockattack/blockattack-game/v2.0.X/ReleaseNotes-2.0.0.txt) and [download it](http://www.blockattack.net/download/).
+Version 2.0.0 is released. Read the [Release Notes](https://raw.githubusercontent.com/blockattack/blockattack-game/v2.0.X/ReleaseNotes-2.0.0.txt) and [download it]({{ site.baseurl }}/download/).
 
 It is difficult to release software. Especially then you do not have a deadline.
 Software is never 'done', it is just 'release ready'.
