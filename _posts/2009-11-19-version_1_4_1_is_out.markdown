@@ -2,7 +2,7 @@
 layout: post
 title: "Version 1.4.1 is out"
 date: 2009-11-19
-catagories: update
+categories: update
 ---
 Version 1.4.1 was uploaded to SourceForge a few days ago. There is not much new in this release, mostly background stuff for the Linux version and I have not bothered creating a Windows version this time. The game not requires PhysFS - a file system abstraction layer. Theme support is also added and at some point I might upload a theme to show that it works.
 

@@ -2,7 +2,7 @@
 layout: post
 title: "A video showing VS mode"
 date: 2009-06-01
-catagories: video
+categories: video
 ---
 I do not think this page shows what the game is about so I have created a video to show the VS mode and the AI in version 1.4.0:
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Now also without installer"
 date: 2016-07-02
-catagories: news
+categories: news
 ---
 The download section now contains a Windows version without an installer.
 I always preferred that kind of installation myself but for some reason I have never provided one until now.

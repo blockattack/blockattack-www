@@ -2,7 +2,7 @@
 layout: post
 title: "Preview of 2.0.0 as of 2016-03-20"
 date: 2016-03-20
-catagories: news update
+categories: news update
 ---
 _TLDR: There is a preview version that are likely better for you._
 

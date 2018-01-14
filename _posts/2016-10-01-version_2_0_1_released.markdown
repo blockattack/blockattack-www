@@ -2,7 +2,7 @@
 layout: post
 title: "Version 2.0.1 released"
 date: 2016-10-01
-catagories: news
+categories: news
 ---
 Version 2.0.1 is released. Read the [Release Notes](https://raw.githubusercontent.com/blockattack/blockattack-game/v2.0.X/ReleaseNotes-2.0.1.txt) and [download it]({{ site.baseurl }}/download/).
 
