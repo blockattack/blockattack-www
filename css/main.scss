@@ -52,3 +52,21 @@ $on-laptop:        800px;
 ;
 
 
+.column {
+    float: left;
+}
+
+.left {
+    width: 35%;
+}
+
+.right {
+    width: 65%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
