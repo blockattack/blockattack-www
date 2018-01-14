@@ -1,6 +1,7 @@
 ---
 layout: page
 title: The game
+order: 1
 permalink: /thegame/
 redirect_from: "/thegame.htm"
 ---

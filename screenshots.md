@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Screen shots
+order: 10
 permalink: /screenshots/
 redirect_from: "/screenshots.htm"
 ---

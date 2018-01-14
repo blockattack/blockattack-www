@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Instructions
+order: 50
 permalink: /instructions/
 ---
 # Controls

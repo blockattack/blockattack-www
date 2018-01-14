@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Download
+order: 100
 permalink: /download/
 redirect_from: "/downloads.htm"
 ---
