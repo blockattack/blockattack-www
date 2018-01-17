@@ -7,6 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.blockattack.net" # the base hostname & protocol for your site
 github_username: blockattack
+permalink: /:year/:month/:day/:title.html
 
 # Build settings
 markdown: kramdown
