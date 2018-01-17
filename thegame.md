@@ -22,7 +22,7 @@ Current version is 2.1.2
   * Puzzle mode has 30+ puzzles
   * Players can use a custom key setup
   * High scores are saved
-  * Joypad support
+  * Gamepad support
   * Music and sound effects
   * Animations
   * Puzzle level editor (written in Java)
@@ -37,10 +37,6 @@ Ok... they might never arrive. But things I would like.
   * Reintroduce Save/play replay
   * Reintroduce network play
   * More puzzles (always needed)
-
-# Notes:
-
-  * The game was once called "Block Attack - Raise of the blocks". The title didn't make any sense...
 
 # System requirements:
 
