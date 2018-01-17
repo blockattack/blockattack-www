@@ -5,8 +5,12 @@ order: 1
 permalink: /thegame/
 redirect_from: "/thegame.htm"
 ---
-Block Attack - Rise of the Blocks is a puzzle/blockfall game inspired by Nintendo's Tetris Attack (or "Panel de Pon") for the Super Nintendo. The game is pretty action packed for a puzzle game :-)
+Block Attack - Rise of the Blocks is a puzzle/blockfall game inspired by Nintendo's Tetris Attack (or "Panel de Pon") for the Super Nintendo. It might seem like any other match-3 style game but it is generally much faster. The game requires fast decisions compared to other puzzle games. While you can setup the perfect chain it is much more likely that you will construct chains while blocks are still dropping around you. 
+
+In addition to traditional game types like endless, time trial and stage clear the game does also feature a VS-mode. The VS mode is a dual like you rarely see in a puzzle game.
+
 The game is programmed by me (Poul Sander) and is released under the GPL license version 2.
+
 
 Current version is 2.1.2
 
@@ -45,7 +49,7 @@ Ok... they might never arrive. But things I would like.
   * Mouse
   * OS: Windows or Linux
 
-The game is using the [SDL2 libary](http://www.libsdl.org/), [SDL_Mixer](http://www.libsdl.org/projects/SDL_mixer), [SDL_image](http://www.libsdl.org/projects/SDL_image/), [SDL_ttf](https://www.libsdl.org/projects/SDL_ttf/), [PhysicsFS](https://icculus.org/physfs/), JsonCpp, boost, [cpputf](http://utfcpp.sourceforge.net/) and [NFont](https://github.com/grimfang4/nfont/)
+The game is using the [SDL2 libary](http://www.libsdl.org/), [SDL_Mixer](http://www.libsdl.org/projects/SDL_mixer), [SDL_image](http://www.libsdl.org/projects/SDL_image/), [SDL_ttf](https://www.libsdl.org/projects/SDL_ttf/), [PhysicsFS](https://icculus.org/physfs/), boost, [cpputf](http://utfcpp.sourceforge.net/) and [NFont](https://github.com/grimfang4/nfont/)
 
 Version 2.1.2 has been tested on: Windows 8 (64 bit), Windows 10 (64 bit), Ubuntu 14.04 (64 bit), Ubuntu 16.04 (64 bit), Fedora 25 (64 bit), Fedora 23 (32 bit) and Debian 8.9 (32 bit)
 
