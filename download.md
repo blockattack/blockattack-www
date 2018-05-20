@@ -11,13 +11,13 @@ There are several ways to get the game. Choose your favorite.
 
 It does not get simpler than this. Choose the file you want, download it, install it, play it.
 
-[Linux no-installer 2.1.2](https://github.com/blockattack/blockattack-game/releases/download/v2.1.2/blockattack-linux-2.1.2-3.tar.bz2){:class="download-link"}
+[Linux no-installer 2.2.0](https://github.com/blockattack/blockattack-game/releases/download/v2.2.0/blockattack-linux-2.2.0-1.tar.bz2){:class="download-link"}
 
-[Windows installer 2.1.2](https://github.com/blockattack/blockattack-game/releases/download/v2.1.2/blockattack-installer-2.1.2.exe){:class="download-link"}
+[Windows installer 2.2.0](https://github.com/blockattack/blockattack-game/releases/download/v2.2.0/blockattack-installer-2.2.0.exe){:class="download-link"}
 
-[Windows no-installer 2.1.2](https://github.com/blockattack/blockattack-game/releases/download/v2.1.2/blockattack-2.1.2-windows-no-installer.zip){:class="download-link"}
+[Windows no-installer 2.2.0](https://github.com/blockattack/blockattack-game/releases/download/v2.2.0/blockattack-2.2.0-windows-no-installer.zip){:class="download-link"}
 
-[Source 2.1.2](https://github.com/blockattack/blockattack-game/archive/v2.1.2.tar.gz){:class="download-link"}
+[Source 2.2.0](https://github.com/blockattack/blockattack-game/archive/v2.2.0.tar.gz){:class="download-link"}
 
 # Itch
 
