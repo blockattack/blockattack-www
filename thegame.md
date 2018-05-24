@@ -12,7 +12,7 @@ In addition to traditional game types like endless, time trial and stage clear t
 The game is programmed by me (Poul Sander) and is released under the GPL license version 2.
 
 
-Current version is 2.1.2
+Current version is 2.2.0
 
 # Features:
 
@@ -26,6 +26,8 @@ Current version is 2.1.2
   * Custom keymapping
   * High scores are saved
   * Gamepad support
+  * Mouse support
+  * Touch support
   * Music and sound effects
   * Animations
   * Puzzle level editor (written in Java)
@@ -44,12 +46,11 @@ Ok... they might never arrive. But things I would like.
 
   * Screen resolution: 1024x768 (can be changed from 2.1.1+ but still recommended)
   * Keyboard
-  * Mouse
   * OS: Windows or Linux
 
-The game is using the [SDL2 libary](http://www.libsdl.org/), [SDL_Mixer](http://www.libsdl.org/projects/SDL_mixer), [SDL_image](http://www.libsdl.org/projects/SDL_image/), [SDL_ttf](https://www.libsdl.org/projects/SDL_ttf/), [PhysicsFS](https://icculus.org/physfs/), boost, [cpputf](http://utfcpp.sourceforge.net/), [cereal](https://uscilab.github.io/cereal/), [RapidJSON](http://rapidjson.org) and [NFont](https://github.com/grimfang4/nfont/)
+The game is using the [SDL2 libary](http://www.libsdl.org/), [SDL_Mixer](http://www.libsdl.org/projects/SDL_mixer), [SDL_image](http://www.libsdl.org/projects/SDL_image/), [SDL_ttf](https://www.libsdl.org/projects/SDL_ttf/), [PhysicsFS](https://icculus.org/physfs/), boost, [cpputf](http://utfcpp.sourceforge.net/), [cereal](https://uscilab.github.io/cereal/) and [RapidJSON](http://rapidjson.org)
 
-Version 2.1.2 has been tested on: Windows 8 (64 bit), Windows 10 (64 bit), Ubuntu 14.04 (64 bit), Ubuntu 16.04 (64 bit), Fedora 25 (64 bit), Fedora 23 (32 bit) and Debian 8.9 (32 bit)
+Version 2.1.2 has been tested on: Windows 8 (64 bit), Windows 10 (64 bit), Ubuntu 14.04 (64 bit), Ubuntu 16.04 (64 bit), Ubuntu 18.04 (64 bit), Fedora 25 (64 bit), Fedora 23 (32 bit) and Debian 8.9 (32 bit)
 
 # Comments
 
