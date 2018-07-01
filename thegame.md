@@ -46,7 +46,9 @@ Ok... they might never arrive. But things I would like.
 
   * Screen resolution: 1024x768 (can be changed from 2.1.1+ but still recommended)
   * Keyboard
-  * OS: Windows or Linux
+  * OS:
+    * Linux: Oldest supported Ubuntu LTS version or later
+    * Windows: Windows 7 or later
 
 The game is using the [SDL2 libary](http://www.libsdl.org/), [SDL_Mixer](http://www.libsdl.org/projects/SDL_mixer), [SDL_image](http://www.libsdl.org/projects/SDL_image/), [SDL_ttf](https://www.libsdl.org/projects/SDL_ttf/), [PhysicsFS](https://icculus.org/physfs/), boost, [cpputf](http://utfcpp.sourceforge.net/), [cereal](https://uscilab.github.io/cereal/) and [RapidJSON](http://rapidjson.org)
 
