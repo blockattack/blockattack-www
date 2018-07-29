@@ -10,9 +10,10 @@ Block Attack - Rise of the Blocks is a puzzle/blockfall game inspired by Nintend
 In addition to traditional game types like endless, time trial and stage clear the game does also feature a VS-mode. The VS mode is a dual like you rarely see in a puzzle game.
 
 The game is programmed by me (Poul Sander) and is released under the GPL license version 2.
+All the artwork are free too.
 
 
-Current version is 2.2.0
+Current version is 2.3.0
 
 # Features:
 
@@ -48,7 +49,7 @@ Ok... they might never arrive. But things I would like.
   * Keyboard
   * OS:
     * Linux: Oldest supported Ubuntu LTS version or later
-    * Windows: Windows 7 or later
+    * Windows: Windows 7, 8 or 10 (32 or 64 bit)
 
 The game is using the [SDL2 libary](http://www.libsdl.org/), [SDL_Mixer](http://www.libsdl.org/projects/SDL_mixer), [SDL_image](http://www.libsdl.org/projects/SDL_image/), [SDL_ttf](https://www.libsdl.org/projects/SDL_ttf/), [PhysicsFS](https://icculus.org/physfs/), boost, [cpputf](http://utfcpp.sourceforge.net/), [cereal](https://uscilab.github.io/cereal/) and [RapidJSON](http://rapidjson.org)
 
