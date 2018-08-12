@@ -7,11 +7,17 @@ redirect_from: "/screenshots.htm"
 ---
 Here are some screen shots to show the development of the game.
 
+# Version 2.3.0
+
+<a href="{{ site.baseurl }}/images/screenshots/blockattack-2.3.0-1.png"  data-lightbox="version2.3.0" data-title="Version 2.3.0 - Time trial"><img src="{{ site.baseurl }}/images/screenshots/blockattack-2.3.0-1.thumb.png" alt="Screenshot" border="1"/></a>
+<a href="{{ site.baseurl }}/images/screenshots/blockattack-2.3.0-2.png"  data-lightbox="version2.3.0" data-title="Version 2.3.0 - Versus the computer"><img src="{{ site.baseurl }}/images/screenshots/blockattack-2.3.0-2.thumb.png" alt="Screenshot" border="1"/></a>
+<a href="{{ site.baseurl }}/images/screenshots/blockattack-2.3.0-3.png"  data-lightbox="version2.3.0" data-title="Version 2.3.0 - Versus the computer 2"><img src="{{ site.baseurl }}/images/screenshots/blockattack-2.3.0-3.thumb.png" alt="Screenshot" border="1"/></a>
+
 # Version 2.1.2
 
-<a href="{{ site.baseurl }}/images/screenshots/blockattack_2.1.2_timetrial.png"  data-lightbox="version2.1.2" data-title="Time trial"><img src="{{ site.baseurl }}/images/screenshots/blockattack_2.1.2_timetrial.thumb.png" alt="Screenshot" border="1"/></a>
-<a href="{{ site.baseurl }}/images/screenshots/blockattack_2.1.2_vs.png"  data-lightbox="version2.1.2" data-title="VS Game againt the computer"><img src="{{ site.baseurl }}/images/screenshots/blockattack_2.1.2_vs.thumb.png" alt="Screenshot" border="1"/></a>
-<a href="{{ site.baseurl }}/images/screenshots/blockattack_2.1.2_vs2.png"  data-lightbox="version2.1.2" data-title="VS Game againt the computer 2"><img src="{{ site.baseurl }}/images/screenshots/blockattack_2.1.2_vs2.thumb.png" alt="Screenshot" border="1"/></a>
+<a href="{{ site.baseurl }}/images/screenshots/blockattack_2.1.2_timetrial.png"  data-lightbox="version2.1.2" data-title="Endless"><img src="{{ site.baseurl }}/images/screenshots/blockattack_2.1.2_timetrial.thumb.png" alt="Screenshot" border="1"/></a>
+<a href="{{ site.baseurl }}/images/screenshots/blockattack_2.1.2_vs.png"  data-lightbox="version2.1.2" data-title="VS Game against the computer"><img src="{{ site.baseurl }}/images/screenshots/blockattack_2.1.2_vs.thumb.png" alt="Screenshot" border="1"/></a>
+<a href="{{ site.baseurl }}/images/screenshots/blockattack_2.1.2_vs2.png"  data-lightbox="version2.1.2" data-title="VS Game against the computer 2"><img src="{{ site.baseurl }}/images/screenshots/blockattack_2.1.2_vs2.thumb.png" alt="Screenshot" border="1"/></a>
 
 # Old screen shots
 
