@@ -18,6 +18,12 @@ Both can be changed in the menu
 
 It is possible to play with mouse or touch. Place the mouse or finger on a piece and slide it left or right. Slide from the bottom of the playing field to get the next row.
 
+# Game controller
+
+![Gamepad mapping](../images/blockattack_gamepad_controls-2.3.0.png "Gamepad controls")
+Only gamepads supported by SDL2 will work with the game.  
+It is not possible to add or remap game controller keys in the game.
+
 # Gameplay
 
 Basically you just move around and switch blocks horizontally to match them 3 or more. Take a look on YouTube to see it.

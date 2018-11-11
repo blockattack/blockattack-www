@@ -23,7 +23,7 @@ Current version is 2.3.0
   * No loot boxes
   * 5 single player modes: Endless, Time Trial, Puzzle Mode, Stage Clear and Vs. Mode
   * 2 two player options: Time Trial and Vs. Mode
-  * Puzzle mode with 30+ puzzles
+  * Puzzle mode with 27 puzzles
   * Custom keymapping
   * High scores are saved
   * Gamepad support
@@ -32,7 +32,6 @@ Current version is 2.3.0
   * Music and sound effects
   * Animations
   * Puzzle level editor (written in Java)
-  * Select puzzle file from a list in the game
   * Runs under Linux and Windows + more
 
 # Coming features:
