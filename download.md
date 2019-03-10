@@ -24,7 +24,7 @@ It does not get simpler than this. Choose the file you want, download it, instal
 If you prefer it then you can also fint the game on [itch.io](https://sago008.itch.io/blockattack). This works with the Itch.io App too so you can enjoy auto updating.
 <iframe src="https://itch.io/embed/170598?link_color=2ca41b" width="552" height="167" frameborder="0"></iframe>
 
-# Linxu packages
+# Linux packages
 
 Debian and Ubuntu users might choose to install the **blockattack** package instead: `sudo apt-get install blockattack`
 
