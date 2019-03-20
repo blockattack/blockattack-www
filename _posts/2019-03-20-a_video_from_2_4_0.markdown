@@ -1,0 +1,11 @@
+---
+layout: post
+title: "A video from 2.4.0"
+date: 2019-03-20
+categories: video
+---
+The previous video of the gameplay is almost 10 years old. It was time for a new one. So I have recorded a video of a VS game from the just released version.
+
+Still 4:3 format like the game. I am planning to do something about that in the next version and then I may create a new video.
+
+<iframe width="480" height="360" src="https://www.youtube.com/embed/xHxnGB2y_lg?rel=0" frameborder="0" allowfullscreen></iframe>
