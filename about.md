@@ -20,9 +20,9 @@ You can post ideas and contributions on the [Github page](https://github.com/blo
 Translations are especially welcome. So are a trailer for the game.
 
 A simpler way to help is to spread the word:
- * Star it on [Github](https://github.com/blockattack/blockattack-game)
- * Rate it on [Itch](https://sago008.itch.io/blockattack)
- * Rate it on [SourceForge](https://sourceforge.net/projects/blockattack/)
+ * Star Block Attack - Rise of the Blocks on [Github](https://github.com/blockattack/blockattack-game)
+ * Rate Block Attack - Rise of the Blocks on [Itch](https://sago008.itch.io/blockattack)
+ * Rate Block Attack - Rise of the Blocks on [SourceForge](https://sourceforge.net/projects/blockattack/)
  * Share some images on [Facebook](https://www.facebook.com/blockattack/)
 
-I would really appriciate it!
+I would really appreciate it!
