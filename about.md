@@ -15,11 +15,14 @@ I hope you enjoy playing it!
 
 # Supporting the game
 
-If you want to support the game there are a couple of things you can do:
+You can post ideas and contributions on the [Github page](https://github.com/blockattack/blockattack-game).
+
+Translations are especially welcome. So are a trailer for the game.
+
+A simpler way to help is to spread the word:
  * Star it on [Github](https://github.com/blockattack/blockattack-game)
  * Rate it on [Itch](https://sago008.itch.io/blockattack)
  * Rate it on [SourceForge](https://sourceforge.net/projects/blockattack/)
- * Rate it in [Linux game database](https://lgdb.org/game/block-attack-rise-of-the-blocks)
  * Share some images on [Facebook](https://www.facebook.com/blockattack/)
 
-The best thing you can get for contributing to "Free software" is appreciation!
+I would really appriciate it!
