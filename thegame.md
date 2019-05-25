@@ -13,7 +13,7 @@ The game is programmed by me (Poul Sander) and is released under the GPL license
 All the artwork are free too.
 
 
-Current version is 2.4.0
+Current version is 2.5.0
 
 # Features:
 
@@ -44,7 +44,7 @@ Ok... they might never arrive. But things I would like.
 
 # System requirements:
 
-  * Screen resolution: 1024x768 (can be changed from 2.1.1+ but still recommended)
+  * Screen resolution: native is 768p but it can run scale to others
   * Keyboard
   * OS:
     * Linux: Oldest supported Ubuntu LTS version or later
