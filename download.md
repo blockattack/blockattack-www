@@ -32,7 +32,7 @@ The versions are not always up to date but they recent enough for most players. 
 
 # Older versions
 
-Old versions can be found on the [GitGub release section](https://github.com/blockattack/blockattack-game/releases) or [Source forge download section](http://sourceforge.net/project/showfiles.php?group_id=149110)
+Old versions can be found on the [GitHub release section](https://github.com/blockattack/blockattack-game/releases) or [Source forge download section](http://sourceforge.net/project/showfiles.php?group_id=149110)
 
 # The Puzzle Level Editor:
 
@@ -42,7 +42,7 @@ It you want to create custom puzzles for the puzzle mode then you'll want the pu
 
 # Download info
 
-Number of download from Github (from 2.0.0): [![Github All Releases](https://img.shields.io/github/downloads/blockattack/blockattack-game/total.svg?maxAge=2592000)]()
+Number of download from GitHub (from 2.0.0): [![Github All Releases](https://img.shields.io/github/downloads/blockattack/blockattack-game/total.svg?maxAge=2592000)]()
 
 Number of downloads from SourceForge (up to 1.4.2): [![SourceForge](https://img.shields.io/sourceforge/dt/blockattack.svg?maxAge=2592000)]()
 
