@@ -20,13 +20,14 @@ It is possible to play with mouse or touch. Place the mouse or finger on a piece
 
 # Game controller
 
-![Gamepad mapping](../images/blockattack_gamepad_controls-2.3.0.png "Gamepad controls")
+![Gamepad mapping](../images/blockattack_gamepad_controls-2.6.0.png "Gamepad controls from 2.6.0")
 Only gamepads supported by SDL2 will work with the game.  
 It is not possible to add or remap game controller keys in the game.
 
-From version 2.6.0 a new schema will be used:
-![Gamepad mapping](../images/blockattack_gamepad_controls-2.6.0.png "Gamepad controls")
-Matching the schema used by most modern games.
+Pre version 2.6.0 an old schema will be used:
+![Gamepad mapping](../images/blockattack_gamepad_controls-2.3.0.png "Gamepad controls up to 2.5.z")
+
+
 
 # Gameplay
 
