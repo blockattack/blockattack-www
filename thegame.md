@@ -40,6 +40,7 @@ Ok... they might never arrive. But things I would like.
   * Better AI
   * Reintroduce Save/play replay
   * Reintroduce network play
+  * Reintroduce theme support
   * More puzzles (always needed)
 
 # System requirements:
