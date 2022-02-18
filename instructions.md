@@ -33,6 +33,30 @@ Pre version 2.6.0 an old schema will be used:
 
 Basically you just move around and switch blocks horizontally to match them 3 or more. Take a look on YouTube to see it.
 
+# Enabling mods
+
+At the moment it is possible to start mod in two ways. Command line argument or mod file.
+
+Command line:
+```
+./blockattack --mod MODNAME
+# Example:
+./blockattack --mod 1.3.0.bricks
+```
+Mods loaded from command line are loaded last. They take priority over the mod file.
+
+Mod file:
+
+It is possible using a "mod_list.txt"-file in config directory.
+  * Windows: `%APPDATA%/blockattack/mod_list.txt`
+  * Linux: `$HOME/.local/share/blockattack/mod_list.txt`
+
+The file is a csv-file without header and a line for each mod.
+```
+1.3.0.bricks,1
+```
+The fist column is the modname, the second column is "1" if enabled.
+
 # Comments
 
 {% include disqus.html %}
