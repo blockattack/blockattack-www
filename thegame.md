@@ -13,7 +13,7 @@ The game is programmed by me (Poul Sander) and is released under the GPL license
 All the artwork are free too.
 
 
-Current version is 2.8.0
+Current version is 2.9.0
 
 # Features:
 
@@ -54,6 +54,8 @@ Ok... they might never arrive. But things I would like.
 The game is using the [SDL2 libary](http://www.libsdl.org/), [SDL_Mixer](http://www.libsdl.org/projects/SDL_mixer), [SDL_image](http://www.libsdl.org/projects/SDL_image/), [SDL_ttf](https://www.libsdl.org/projects/SDL_ttf/), [PhysicsFS](https://icculus.org/physfs/), boost, [cpputf](http://utfcpp.sourceforge.net/), [cereal](https://uscilab.github.io/cereal/) and [RapidJSON](http://rapidjson.org)
 
 Version 2.1.2 has been tested on: Windows 8 (64 bit), Windows 10 (64 bit), Ubuntu 14.04 (64 bit), Ubuntu 16.04 (64 bit), Ubuntu 18.04 (64 bit), Fedora 25 (64 bit), Fedora 23 (32 bit) and Debian 8.9 (32 bit)
+
+Version 2.9.0 has been tested on: Windows 11, Ubuntu 18.04, Ubuntu 23.10, and Fedora 40
 
 # Comments
 
