@@ -13,7 +13,7 @@ The game is programmed by me (Poul Sander) and is released under the GPL license
 All the artwork are free too.
 
 
-Current version is 2.9.1
+Current version is 2.10.0
 
 # Features:
 
