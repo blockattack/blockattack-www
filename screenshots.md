@@ -5,7 +5,7 @@ order: 10
 permalink: /screenshots/
 redirect_from: "/screenshots.htm"
 ---
-Here are some screen shots to show the development of the game.
+Here are some screenshots to show the development of the game.
 
 # Version 2.3.0
 
@@ -29,7 +29,7 @@ Here are some screen shots to show the development of the game.
 <a href="{{ site.baseurl }}/images/screenshot08.jpg"  data-lightbox="screenshots_old" data-title="another screenshot"><img src="{{ site.baseurl }}/images/screenshot08.thumb.jpg" alt="another screenshot" border="1"/></a>
 <a href="{{ site.baseurl }}/images/screenshot07.png"  data-lightbox="screenshots_old" data-title="before 1.1.0"><img src="{{ site.baseurl }}/images/screenshot07.thumb.png" alt="before 1.1.0" border="1"/></a>
 <a href="{{ site.baseurl }}/images/screenshot06.png"  data-lightbox="screenshots_old" data-title="puzzle mode in 1.0.x"><img src="{{ site.baseurl }}/images/screenshot06.thumb.png" alt="puzzle mode in 1.0.x" border="1"/></a>
-<a href="{{ site.baseurl }}/images/screenshot05.png"  data-lightbox="screenshots_old" data-title="see all the balls where have they gone?"><img src="{{ site.baseurl }}/images/screenshot05.thumb.png" alt="see all the balls where have they gone?" border="1"/></a>
+<a href="{{ site.baseurl }}/images/screenshot05.png"  data-lightbox="screenshots_old" data-title="see all the balls - where have they gone?"><img src="{{ site.baseurl }}/images/screenshot05.thumb.png" alt="see all the balls - where have they gone?" border="1"/></a>
 <a href="{{ site.baseurl }}/images/screenshot03.JPG"  data-lightbox="screenshots_old" data-title="ugly3"><img src="{{ site.baseurl }}/images/screenshot03.thumb.JPG" alt="ugly3" border="1"/></a>
 <a href="{{ site.baseurl }}/images/screenshot02.JPG"  data-lightbox="screenshots_old" data-title="ugly2"><img src="{{ site.baseurl }}/images/screenshot02.thumb.JPG" alt="ugly2" border="1"/></a>
 <a href="{{ site.baseurl }}/images/screenshot01.JPG"  data-lightbox="screenshots_old" data-title="The options menu in the old days"><img src="{{ site.baseurl }}/images/screenshot01.thumb.JPG" alt="The options menu in the old days" border="1"/></a>

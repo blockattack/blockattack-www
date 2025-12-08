@@ -21,14 +21,14 @@ It does not get simpler than this. Choose the file you want, download it, instal
 
 # Itch
 
-If you prefer it then you can also fint the game on [itch.io](https://sago008.itch.io/blockattack). This works with the Itch.io App too so you can enjoy auto updating.
+If you prefer it then you can also find the game on [itch.io](https://sago008.itch.io/blockattack). This works with the Itch.io App too so you can enjoy auto updating.
 <iframe src="https://itch.io/embed/170598?link_color=2ca41b" width="552" height="167" frameborder="0"></iframe>
 
 # Linux packages
 
 Debian and Ubuntu users might choose to install the **blockattack** package instead: `sudo apt-get install blockattack`
 
-The versions are not always up to date but they recent enough for most players. Check versions on [pkgs.org](https://pkgs.org/download/blockattack)
+The versions are not always up to date but they are recent enough for most players. Check versions on [pkgs.org](https://pkgs.org/download/blockattack)
 
 # Older versions
 
@@ -36,7 +36,7 @@ Old versions can be found on the [GitHub release section](https://github.com/blo
 
 # The Puzzle Level Editor:
 
-It you want to create custom puzzles for the puzzle mode then you'll want the puzzle level editor. Otherwise you do not need it.
+If you want to create custom puzzles for the puzzle mode then you'll want the puzzle level editor. Otherwise you do not need it.
 
 [Puzzle Level Editor v2 in Java (All OSs)](http://prdownloads.sourceforge.net/blockattack/BlockAttackLevelEditor2_Java.zip?download){:class="download-link"}
 
@@ -50,7 +50,7 @@ Number of downloads from SourceForge (up to 1.4.2): [![SourceForge](https://img.
 
 The source is now hosted in a git repository at GitHub [here](https://github.com/blockattack).
 
-The [master](https://github.com/blockattack/blockattack-game) branch contains the development version for 2.X.Y and is considerable different from 1.4.2.
+The [master](https://github.com/blockattack/blockattack-game) branch contains the development version for 2.X.Y and is considerably different from 1.4.2.
 
 [1.4.2](https://github.com/blockattack/blockattack-game/tree/v1.4.2) can be found in its own branch.
 

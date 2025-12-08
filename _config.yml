@@ -3,7 +3,7 @@ title: Block Attack - Rise of the Blocks
 email: poul@poulsander.com
 description: > # this means to ignore newlines until "baseurl:"
   Block Attack - Rise of the Blocks is a puzzle/blockfall game inspired by Tetris Attack (Panel de Pon in Japan) for the SNES.
-  The game is pretty action packed for a puzzle game :-)
+  The game is pretty action-packed for a puzzle game :-)
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://blockattack.net" # the base hostname & protocol for your site
 github_username: blockattack
