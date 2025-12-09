@@ -6,7 +6,7 @@ categories: news
 ---
 A new version has just dropped.
 
-The most obvious addition is par-scores in Stage Clear.. Rather than just surviving, you can now also try to beat my score. All scores are first try, so they should be manageable.
+The most obvious addition is par-scores in Stage Clear. Rather than just surviving, you can now also try to beat my score. All scores are first try, so they should be manageable.
 
 Another new feature is the built-in puzzle editor. It can be started with `--puzzle-editor`. It is not super user-friendly, but it works.
 
